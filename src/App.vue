@@ -8,7 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/Me.JPG" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Greetings! I am Criza Fe B. Liquigan" />
+  <HelloWorld msg="Good Day! I am Criza Fe B. Liquigan" />
 </template>
 
 <style scoped>
@@ -21,9 +21,9 @@ import HelloWorld from './components/HelloWorld.vue'
   border-radius: 50%;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+  filter: drop-shadow(0 0 2em #bf0accaa);
 }
 .logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
+  filter: drop-shadow(0 0 2em #df5996aa);
 }
 </style>
